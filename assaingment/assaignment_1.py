@@ -3,7 +3,7 @@ CP1404 Assignment 1 - Song List 1.0
 Author: Yasir Foysol Rahib
 Date: 2025-03-05
 Description: A Python program to manage a song list with functionalities to display, add, mark as learned, and save songs.
-GitHub Repository: [INSERT YOUR GITHUB LINK HERE]
+GitHub Repository: [https://github.com/yasirfoysol/cp1404practicals]
 """
 
 import os
